@@ -1,0 +1,22 @@
+{
+  "name": "obfuscator",
+  "version": "1.0.0",
+  "description": "混淆器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merlot1982/Obfuscator.git"
+  },
+  "author": "jeff.fu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Merlot1982/Obfuscator/issues"
+  },
+  "homepage": "https://github.com/Merlot1982/Obfuscator#readme",
+  "devDependencies": {
+    "uglify-js": "^3.4.9"
+  }
+}
